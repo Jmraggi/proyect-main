@@ -1,0 +1,9 @@
+.gris{
+    background-color: rgb(181, 181, 181);
+}
+
+.centrar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
